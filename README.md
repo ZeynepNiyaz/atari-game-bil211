@@ -1,2 +1,2 @@
-# atari-game-bil211
+# atari-game
 Bil 211 Summer Term Final Project
