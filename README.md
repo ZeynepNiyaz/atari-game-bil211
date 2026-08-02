@@ -15,5 +15,9 @@ A retro-style Atari game project featuring multi-threaded game mechanics, built 
 * **Language:** Java
 * **Libraries / Frameworks:** Java Swing / AWT, Multithreading
 
+## 🐧 System Requirements
+* **OS:** Linux (Ubuntu / Linux Kernel)
+* **Environment:** Compatible with Linux execution environments.
+
 ---
 *Note: This project was developed as an object-oriented graphical application for computer engineering coursework.*
