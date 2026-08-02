@@ -1,3 +1,3 @@
-# atari-game
-Bil 211 Summer Term Final Project
--(Only Linux)
+# Atari-game
+Bil 211 Summer Term Final Project-(Only Linux)
+
